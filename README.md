@@ -1,1 +1,1 @@
-# codeforces-9A
+# codeforces
